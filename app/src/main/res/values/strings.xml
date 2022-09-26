@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">DailyReminder</string>
+
+    <string name="pending">Pending Task</string>
+    <string name="completed">Completed Task</string>
+    <string name="create">Create Task</string>
+    <string name="edit">Edit Task</string>
+    <string name="delete">Delete Task</string>
+    <string name="complete">Complete Task</string>
+    <string name="update">Update Task</string>
+
+    <string name="title">Task Title</string>
+    <string name="desc">Task Description</string>
+    <string name="date">Task Date</string>
+    <string name="time">Task Time</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
 </resources>
