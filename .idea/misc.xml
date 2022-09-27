@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Ganesh/AndroidStudioProjects/DailyReminder/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Ganesh/AndroidStudioProjects/DailyReminder/app/src/main/res/drawable-anydpi/ic_add_button.xml" value="0.2485" />
+        <entry key="..\:/Users/Ganesh/AndroidStudioProjects/DailyReminder/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Ganesh/AndroidStudioProjects/DailyReminder/app/src/main/res/layout/activity_splashscreen.xml" value="0.2359375" />
+        <entry key="..\:/Users/Ganesh/AndroidStudioProjects/DailyReminder/app/src/main/res/layout/card_view.xml" value="0.25" />
+        <entry key="..\:/Users/Ganesh/AndroidStudioProjects/DailyReminder/app/src/main/res/menu/main_menu.xml" value="0.264" />
       </map>
     </option>
   </component>
